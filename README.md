@@ -4,4 +4,4 @@ Data and R code for my research project "Auditory Scene Analysis and Musical Exp
 "code.R" contains the code which I wrote in order to analyze the data and create the figures used in the paper.
 "annotated-responses.csv" contains the data itself.
 
-The paper can be found [here](https://robkellems.github.io/resources/Q370FinalPaper.pdf)
+The paper can be found [here](https://robkellems.github.io/resources/Q370FinalPaper.pdf).
